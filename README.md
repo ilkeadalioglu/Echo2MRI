@@ -4,6 +4,7 @@
  
 
 https://github.com/user-attachments/assets/02343881-1600-4b90-85ef-9cdf2dc49ea2
+![002_video_bw avi](https://github.com/user-attachments/assets/ffffc81a-1109-40f0-88f0-3531918e5cad)
 
 
 
