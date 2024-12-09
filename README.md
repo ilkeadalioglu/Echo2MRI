@@ -6,7 +6,7 @@ This repository is proof of concept results of the Echo2MRI Virtual Machine, pro
 Following are the videos of one heartbeat of each test patient; including echocardiography, Virtual MRI, and Original MRI. 
 
 
-Patient 2:
+Patient 2:__
 ![002_video_bw avi](https://github.com/user-attachments/assets/0bef3475-7b57-4f97-8d8f-8686e96e5a48)
 
 
