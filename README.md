@@ -7,8 +7,9 @@ Following are the videos of one heartbeat of each test patient; including echoca
 
 
 Patient 2:  
+<p align="center">
 ![002_video_bw avi](https://github.com/user-attachments/assets/0bef3475-7b57-4f97-8d8f-8686e96e5a48)
-
+</p>
 
 Patient 4: <br />
 ![004_video_bw avi](https://github.com/user-attachments/assets/8a78e4af-cad0-46fd-9d3c-0d280bc3d470)
