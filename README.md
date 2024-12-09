@@ -2,7 +2,8 @@
 ##  Blind Echocardiography Restoration by Cardiac MRI View Transformation
 
 
-This repository is proof of concept results of the Echo2MRI Virtual Machine, proposed in [Blind Echocardiography Restoration by Cardiac MRI View Transformation](https://www.overleaf.com/read/qbznskwxfsqh#e13d45)
+This repository is proof of concept results of the Echo2MRI Virtual Machine, proposed in [Blind Echocardiography Restoration by Cardiac MRI View Transformation](https://www.overleaf.com/read/qbznskwxfsqh#e13d45)  
+
 Following are the videos of one heartbeat of each test patient; including echocardiography, Virtual MRI, and Original MRI. 
 
 
