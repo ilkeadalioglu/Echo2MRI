@@ -2,7 +2,7 @@
 ##  Blind Echocardiography Restoration by Cardiac MRI View Transformation
 
 
-This repository is proof of concept results of the Echo2MRI Virtual Machine, proposed in [Blind Echocardiography Restoration by Cardiac MRI View Transformation]()  
+This repository is proof of concept results of the Echo2MRI Virtual Machine, proposed in [Blind Echocardiography Restoration by Cardiac MRI View Transformation](https://arxiv.org/abs/2412.06445)  
 
 Following are the videos of one heartbeat of each test patient; including echocardiography, Virtual MRI, and Original MRI. 
 
@@ -101,7 +101,15 @@ Patient 77:
 ![0077_video_bw avi](https://github.com/user-attachments/assets/1c4419cb-3d47-4940-822b-bc5c31610698)
 
 
+##  Citation 
 
-
+'''
+@article{adalioglu2024echocardiography,
+  title={Echocardiography to Cardiac MRI View Transformation for Real-Time Blind Restoration},
+  author={Adalioglu, Ilke and Kiranyaz, Serkan and Ahishali, Mete and Degerli, Aysen and Hamid, Tahir and Ghaffar, Rahmat and Hamila, Ridha and Gabbouj, Moncef},
+  journal={arXiv preprint arXiv:2412.06445},
+  year={2024}
+}
+'''
 
 
