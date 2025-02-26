@@ -103,13 +103,16 @@ Patient 77:
 
 ##  Citation 
 
-'''
+If you use the provided data in this repository, please cite the following paper:
+
+
+```
 @article{adalioglu2024echocardiography,
   title={Echocardiography to Cardiac MRI View Transformation for Real-Time Blind Restoration},
   author={Adalioglu, Ilke and Kiranyaz, Serkan and Ahishali, Mete and Degerli, Aysen and Hamid, Tahir and Ghaffar, Rahmat and Hamila, Ridha and Gabbouj, Moncef},
   journal={arXiv preprint arXiv:2412.06445},
   year={2024}
 }
-'''
+```
 
 
